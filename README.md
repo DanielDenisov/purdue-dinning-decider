@@ -1,5 +1,11 @@
 # Purdue Dinning Decider
 
+## MVP
+Fetch information from both Earhard and Hillenbrand. Create a JSON file detailing what foods the user likes. Usr the list of prefeed fooded to find witch dinning court is better that day and send an email to youself that details the better dinning court and what the top 3 meals are in both.
+
+## Future Plans
+Create an algorithem so foods dont become repetitive. Run autonomously every mornining. Include info about diet and allergy restrictions. 
+
 ### Problem Statement
 On any given day, I don't know which dining hall is serving better food next to my dorm, Hillenbrand or Earhart. The only way to know is to look up both dinning halls and compare them witch is tedious.
 
