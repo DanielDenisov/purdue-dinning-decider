@@ -1,7 +1,5 @@
 # Purdue Dinning Decider
 
-## Part 1
-
 ### Problem Statement
 On any given day, I don't know which dining hall is serving better food next to my dorm, Hillenbrand or Earhart. The only way to know is to look up both dinning halls and compare them witch is tedious.
 
@@ -9,7 +7,7 @@ On any given day, I don't know which dining hall is serving better food next to 
 I am going to build an app that compares the menu of the two dinning courts with information about what food I like. Once it compares it, it will email me the results of what location Earhart vs Hildebrand is better on a per meal basis.
 
 ### Eisenhower Matrix
-EisenhowerMatrix.pdf
+[View Eisenhower Matrix](docs/EisenhowerMatrix.pdf)
 
 ### Tech Stack
 * Python
@@ -28,4 +26,4 @@ EisenhowerMatrix.pdf
 * Add the top 3 meals from each dining court to the email
 
 ### System Diagram
-flowchart.png
+![System Diagram](docs/flowchart.png)
